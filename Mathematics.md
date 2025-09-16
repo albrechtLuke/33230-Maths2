@@ -20,16 +20,16 @@ TODO
 [![2Blue1Brown - Eigenvectors and Eigenvalues](https://img.youtube.com/vi/PFDu9oVAE-g/0.jpg)](https://www.youtube.com/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)  
 [2Blue1Brown - Eigenvectors and Eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)
 
-###  $A\vec x=\lambda I\vec x $
+### $A\vec{x} = \lambda I \vec{x}$
 
-### $\vec x(A-\lambda I\vec x)=\vec 0$
+### $\vec{x}(A - \lambda I) = \vec{0}$
 
 [![2Blue1Brown - Shortcut for 2x2 Eigens](https://img.youtube.com/vi/e50Bj7jn9IQ/0.jpg)](https://www.youtube.com/watch?v=e50Bj7jn9IQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15)  
 [2Blue1Brown - Shortcut for 2x2 Eigens](https://www.youtube.com/watch?v=e50Bj7jn9IQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15)
 
-### $ \lambda_1,\lambda_2=m\pm \sqrt{m^2-p}$
+### $\lambda_1, \lambda_2 = m \pm \sqrt{m^2 - p}$  
 *where $m$ is the mean of matrix $A$,*  
-*and $p$ is the product, $\therefore$ the $det$ of matrix $A$*
+*and $p$ is the product, therefore the determinant of matrix $A$*
 
 ## Functions of Several Variables
 TODO
@@ -60,5 +60,7 @@ TODO
 [![BriTheMathGuy - Linear Approximation](https://img.youtube.com/vi/VVtGpDPn1CU/0.jpg)](https://www.youtube.com/watch?v=VVtGpDPn1CU)  
 [BriTheMathGuy - Linear Approximation](https://www.youtube.com/watch?v=VVtGpDPn1CU)
 
-### *For 1 unknown:* $\\ L(x)=f(a)+\underbrace{f'(a)(x-a)}_{f'(a)\Delta x}$
-### *For 2 unknowns:* $\\L(x,y) = f(a,b) + f_{\blue x}(a,b)(\blue x-a)+f_{\orange y}(a,b)(\orange y-b) \\{} \\ L(x,y)=f(a,b) + \frac{\partial F}{\partial \blue x}(\blue x-a)+ \frac{\partial F}{\partial \orange y}(\orange y-b)$
+### *For 1 unknown:* 
+### $\\ L(x)=f(a)+\underbrace{f'(a)(x-a)}_{f'(a)\Delta x}$
+### *For 2 unknowns:* 
+### $\\L(x,y) = f(a,b) + f_{x}(a,b)(x-a)+f_{y}(a,b)(y-b) \\{} \\ L(x,y)=f(a,b) + \frac{\partial F}{\partial  x}(x-a)+ \frac{\partial F}{\partial y}(y-b)$
