@@ -20,7 +20,8 @@ TODO
 [![2Blue1Brown - Eigenvectors and Eigenvalues](https://img.youtube.com/vi/PFDu9oVAE-g/0.jpg)](https://www.youtube.com/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)  
 [2Blue1Brown - Eigenvectors and Eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)
 
-### $A\vec{x}=\lambda{I}\vec{x}$
+### $A\vec{x} = \lambda I \vec{x} $
+
 
 ### $\vec{x}(A-\lambda{I})=\vec{0}$
 
