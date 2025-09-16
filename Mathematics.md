@@ -22,9 +22,9 @@ TODO
 
 ### Eigenvalue Equation
 
-$A \vec{x} = \lambda I \vec{x}$
+$$A \vec{x} = \lambda I \vec{x}$$
 
-$\vec{x}(A - \lambda I) = \vec{0}$
+$$\vec{x}(A - \lambda I) = \vec{0}$$
 
 [![2Blue1Brown - Shortcut for 2x2 Eigens](https://img.youtube.com/vi/e50Bj7jn9IQ/0.jpg)](https://www.youtube.com/watch?v=e50Bj7jn9IQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15)  
 [2Blue1Brown - Shortcut for 2x2 Eigens](https://www.youtube.com/watch?v=e50Bj7jn9IQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15)
