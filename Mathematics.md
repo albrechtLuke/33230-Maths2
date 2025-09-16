@@ -30,7 +30,8 @@ $$\vec{x}(A - \lambda I) = \vec{0}$$
 [2Blue1Brown - Shortcut for 2x2 Eigens](https://www.youtube.com/watch?v=e50Bj7jn9IQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15)
 
 ### Equation for 2x2 shortcut
-$\lambda_1, \lambda_2 = m \pm \sqrt{m^2 - p}$  
+
+$$\lambda_1, \lambda_2 = m \pm \sqrt{m^2 - p}$$
 
 *where $m$ is the mean of matrix $A$,*  
 *and $p$ is the product, therefore the determinant of matrix $A$*
@@ -65,7 +66,7 @@ TODO
 [BriTheMathGuy - Linear Approximation](https://www.youtube.com/watch?v=VVtGpDPn1CU)
 
 ### *For 1 unknown:* 
-### $L(x)=f(a)+\underbrace{f'(a)(x-a)}_{f'(a)\Delta{x}}$
+$$L(x)=f(a)+\underbrace{f'(a)(x-a)}_{f'(a)\Delta{x}}$$
 ### *For 2 unknowns:* 
-### $L(x,y) = f(a,b) + f_{x}(a,b)(x-a)+f_{y}(a,b)(y-b)$ 
-### $L(x,y)=f(a,b) + \frac{\partial F}{\partial  x}(x-a)+ \frac{\partial F}{\partial y}(y-b)$
+$$L(x,y) = f(a,b) + f_{x}(a,b)(x-a)+f_{y}(a,b)(y-b)$$
+$$L(x,y)=f(a,b) + \frac{\partial F}{\partial  x}(x-a)+ \frac{\partial F}{\partial y}(y-b)$$
