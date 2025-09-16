@@ -20,15 +20,18 @@ TODO
 [![2Blue1Brown - Eigenvectors and Eigenvalues](https://img.youtube.com/vi/PFDu9oVAE-g/0.jpg)](https://www.youtube.com/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)  
 [2Blue1Brown - Eigenvectors and Eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)
 
-### $A\vec{x} = \lambda I \vec{x} $
+### Eigenvalue Equation
 
+$A \vec{x} = \lambda I \vec{x}$
 
-### $\vec{x}(A-\lambda{I})=\vec{0}$
+$\vec{x}(A - \lambda I) = \vec{0}$
 
 [![2Blue1Brown - Shortcut for 2x2 Eigens](https://img.youtube.com/vi/e50Bj7jn9IQ/0.jpg)](https://www.youtube.com/watch?v=e50Bj7jn9IQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15)  
 [2Blue1Brown - Shortcut for 2x2 Eigens](https://www.youtube.com/watch?v=e50Bj7jn9IQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15)
 
-### $\lambda_1, \lambda_2 = m \pm \sqrt{m^2 - p}$  
+### Equation for 2x2 shortcut
+$\lambda_1, \lambda_2 = m \pm \sqrt{m^2 - p}$  
+
 *where $m$ is the mean of matrix $A$,*  
 *and $p$ is the product, therefore the determinant of matrix $A$*
 
