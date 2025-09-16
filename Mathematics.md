@@ -1,22 +1,13 @@
 # Mathematics
 
-
 ## Linear Algebra
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/videoseries?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab" 
-  title="YouTube playlist" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
-[2Blue1Brown - Esscence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=jvxNHpSeTNf9QXps)  
-*Highly recommended to watch through all lectures in the series – Gives a very good conceptual overview*
+[![2Blue1Brown - Essence of Linear Algebra](https://i9.ytimg.com/s_p/PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab/landscape_sddefault.jpg?sqp=CIySpcYGir7X7AMICOqwiNsFEAE=&rs=AOn4CLDo3Fb3xyRoJIhVNXo2jvqUEwbrIg)](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=jvxNHpSeTNf9QXps)  
+[2Blue1Brown - Essence of Linear Algebra](https://img.youtube.com/vi/k6U-i4gXkLM/0.jpg)  
+*Highly recommended to watch through all lectures in the series – Gives a very good conceptual overview*
 
 ### Matrices
 TODO
-
 
 ### Determinants
 TODO
@@ -26,29 +17,15 @@ TODO
 
 ### Eigenvalues & Eigenvectors
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14" 
-  title="Eigenvectors and Eigenvalues" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
+[![2Blue1Brown - Eigenvectors and Eigenvalues](https://img.youtube.com/vi/PFDu9oVAE-g/0.jpg)](https://www.youtube.com/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)  
 [2Blue1Brown - Eigenvectors and Eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)
 
 ###  $A\vec x=\lambda I\vec x $
 
 ### $\vec x(A-\lambda I\vec x)=\vec 0$
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/watch?v=e50Bj7jn9IQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15" 
-  title="Eigenvectors and Eigenvalues" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
-[2Blue1Brown - Shortcut for 2x2 Eigens](https://www.youtube.com/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)
+[![2Blue1Brown - Shortcut for 2x2 Eigens](https://img.youtube.com/vi/e50Bj7jn9IQ/0.jpg)](https://www.youtube.com/watch?v=e50Bj7jn9IQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15)  
+[2Blue1Brown - Shortcut for 2x2 Eigens](https://www.youtube.com/watch?v=e50Bj7jn9IQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15)
 
 ### $ \lambda_1,\lambda_2=m\pm \sqrt{m^2-p}$
 *where $m$ is the mean of matrix $A$,*  
@@ -62,52 +39,25 @@ TODO
 
 ## Differential Equations
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/videoseries?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=eVfgEokOPEt7mRp8" 
-  title="YouTube playlist" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
+[![2Blue1Brown - Differential Equations](https://i9.ytimg.com/s_p/PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6/landscape_maxresdefault.jpg?sqp=COSWpcYGir7X7AMICNyCheUFEAE=&rs=AOn4CLAUAKGAIlHln8dVW6V0XTL5s88OvQ)](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=eVfgEokOPEt7mRp8)  
 [2Blue1Brown - Differential Equations](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=eVfgEokOPEt7mRp8)  
-*Highly recommended to watch through all lectures in the series – Gives a very good conceptual overview*
+*Highly recommended to watch through all lectures in the series – Gives a very good conceptual overview*
 
 ### Partial Derivatives
 
+#### Watch for a conceptual understanding
 
-#### Watch for a conceptal understanding
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/watch?v=ly4S0oi3Yz8&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&index=2" 
-  title="YouTube playlist" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
+[![2Blue1Brown - But what is a partial differential equation?](https://img.youtube.com/vi/ly4S0oi3Yz8/0.jpg)](https://www.youtube.com/watch?v=ly4S0oi3Yz8&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&index=2)  
 [2Blue1Brown - But what is a partial differential equation?](https://www.youtube.com/watch?v=ly4S0oi3Yz8&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&index=2)
 
 #### Example in a question context
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/xnhz1Ngr4w8" 
-  title="YouTube playlist" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
 
+[![BriTheMathGuy - Partial Derivatives Quick Example](https://img.youtube.com/vi/xnhz1Ngr4w8/0.jpg)](https://www.youtube.com/watch?v=xnhz1Ngr4w8)  
 [BriTheMathGuy - Partial Derivatives Quick Example](https://www.youtube.com/watch?v=xnhz1Ngr4w8)
 
 ### Linear Approximations
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/VVtGpDPn1CU" 
-  title="Linear Approximations" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
+[![BriTheMathGuy - Linear Approximation](https://img.youtube.com/vi/VVtGpDPn1CU/0.jpg)](https://www.youtube.com/watch?v=VVtGpDPn1CU)  
 [BriTheMathGuy - Linear Approximation](https://www.youtube.com/watch?v=VVtGpDPn1CU)
 
 ### *For 1 unknown:* $\\ L(x)=f(a)+\underbrace{f'(a)(x-a)}_{f'(a)\Delta x}$
